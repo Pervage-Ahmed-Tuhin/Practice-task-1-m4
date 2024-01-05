@@ -1,0 +1,60 @@
+*{
+    margin-left: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.btn{
+    margin-left: 10px;
+    padding: 5px;
+    font-size: 15px;
+
+}
+
+.in{
+    width: 250px;
+    height: 40px;
+    border: 1px solid black;
+}
+
+header{
+    margin: 25px;
+    margin-left: 0;
+    font-size: 25px;
+
+}
+
+
+#panda{
+    width: 500px;
+    border: 2px solid black;
+    box-shadow: 20px 10px 10px;
+    margin-bottom: 20px;
+}
+
+figcaption > a{
+
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+
+}
+
+label{
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+textarea{
+    width: 450px;
+    border: 1px solid black;
+}
+
+.body{
+    height: 100vh;
+    background-image: url(../images/background.png);
+    background-size: cover;
+    background-position: center;
+   
+}
