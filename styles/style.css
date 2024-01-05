@@ -60,15 +60,15 @@ textarea{
 }
 
 .div{
-    border: 1px solid rgb(10, 0, 0);
     margin: 2px;
+    width: 50%;
 }
 
 table{
     border-collapse: collapse;
     border: 1px solid black;
     margin: 2px;
-    width: 100%;
+    width: 50%;
     background-color: bisque;
 }
 
